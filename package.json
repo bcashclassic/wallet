@@ -41,7 +41,7 @@
         "left-pad": "^1.1.3",
         "lodash": "^4.17.4",
         "moment": "^2.20.1",
-        "node-fetch": "^1.6.3",
+        "node-fetch": "^2.6.1",
         "prettyjson": "^1.2.1",
         "vorpal": "^1.11.4"
     },
